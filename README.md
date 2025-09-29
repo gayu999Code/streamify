@@ -1,6 +1,6 @@
-# ChatterFlow Backend
+# streamifyFlow Backend
 
-This is the backend for the ChatterFlow project.
+This is the backend for the streamifyFlow project.
 
 ## Setup
 
